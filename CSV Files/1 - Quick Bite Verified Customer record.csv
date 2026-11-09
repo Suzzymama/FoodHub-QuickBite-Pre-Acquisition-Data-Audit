@@ -1,0 +1,15 @@
+order_id,customer_name,item_name,price
+1,"Fatima Al-Rashid","Kung Pao Noodles",11.00
+2,"Fatima Al-Rashid","Spaghetti Carbonara",18.00
+3,"Zanele Dube","Salmon Sashimi",19.00
+4,"Zanele Dube","Egusi Soup",12.00
+5,"Priya Nair","Butter Chicken",9.50
+6,"Priya Nair","Double Smash Burger",14.00
+7,"Liam Okonkwo","Chicken Tacos",15.00
+8,"Aisha Conteh",Bobotie,17.00
+9,"Nadia Osei","Dim Sum Basket",13.50
+10,"Nadia Osei","Margherita Pizza",14.00
+11,"Tariq Hassan","Tuna Roll",16.00
+12,"Tariq Hassan","Beef Burrito",13.00
+13,"Yemi Adeyemi","Jollof Rice and Chicken",16.50
+14,"Yemi Adeyemi","BBQ Ribs",22.00
